@@ -3,7 +3,7 @@ SteamDealSaver Bot - Privacy Policy
 1. Information Collected
     SteamDealSaver stores Discord user IDs, server IDs, and game alert preferences to provide its features. No sensitive personal information (such as email, address, or payment info) is collected.
 
-2 .How Information Is Used
+2. How Information Is Used
     Collected data is used only to deliver bot features (such as deal alerts and channel configuration). Data is not shared, sold, or used for advertising.
 
 3. Third-Party Services
