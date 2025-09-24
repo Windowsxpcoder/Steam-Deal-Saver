@@ -1,22 +1,67 @@
-SteamDealSaver Bot - Terms of Service
+# Steam Deal Saver — Terms of Service
 
-1. Usage
-    SteamDealSaver is provided as-is for informational and entertainment purposes. By using the bot, you agree to these terms.
+Last updated: 2025-09-24
 
-2. Data Collection
-    The bot may store Discord user IDs, server IDs, and game alert preferences to provide its features. No sensitive personal information is collected.
+These Terms of Service (the “Terms”) govern your use of the Steam Deal Saver Discord bot (the “Bot”). By adding or using the Bot, you agree to these Terms.
 
-3. Third-Party Services
-    The bot uses public APIs (e.g., Steam, IsThereAnyDeal) to fetch game data. The bot is not affiliated with or endorsed by these services.
+This document describes how the Bot behaves as implemented in this repository. It is not legal advice.
 
-4. Limitations
-    The bot’s information may not always be accurate or up-to-date. Use at your own risk.
+## 1. Using the Bot
 
-5. Prohibited Use
-    Do not use the bot for spam, abuse, or any illegal activity. The bot may restrict or ban users who violate these terms.
+- The Bot is provided “as is” for informational and entertainment purposes (e.g., game deals, alerts, price history). No warranties are provided.
+- You must comply with Discord’s Terms of Service and Community Guidelines at all times.
+- The Bot may require certain permissions to function. Server admins decide what permissions to grant. Least-privilege permissions are recommended.
+- Server admins are responsible for compliance with local laws, community rules, and moderation within their servers.
 
-6. Liability
-    The bot owner is not responsible for any damages or losses resulting from use of the bot.
+## 2. Features and limitations
 
-7. Changes
-    These terms may be updated at any time. Continued use of the bot constitutes acceptance of any changes.
+- Deals and game data are sourced from public APIs (e.g., Steam, IsThereAnyDeal). We do not control their accuracy or availability.
+- Update logs are posted only to servers that opt in via an explicit Yes/No prompt.
+- Alert messages are delivered via Discord DMs and depend on the recipient’s DM settings and Discord availability.
+- The Bot may implement rate limits to protect performance and prevent abuse.
+- We may change, suspend, or remove features at any time without notice.
+
+## 3. Data and privacy
+
+- See the Privacy Policy (PRIVACY.md) for details on what data the Bot collects and how it’s used.
+- By using the Bot, you acknowledge that the Bot stores minimal server configuration and alert subscription information to provide its features.
+
+## 4. Acceptable use
+
+You agree not to:
+
+- Use the Bot to violate Discord’s policies or any applicable laws.
+- Attempt to disrupt or overload the Bot (e.g., spamming commands).
+- Reverse engineer, copy, or repurpose the Bot’s code or data in ways that violate licenses or privacy rights.
+- Use the Bot to harass or harm others.
+
+We may restrict or block usage (including removal from servers) for violations or abuse.
+
+## 5. Availability and support
+
+- The Bot’s availability may be affected by hosting environment, network issues, and dependencies (e.g., public APIs, Discord outages).
+- Limited support is offered via the support server. There is no guaranteed response time or uptime.
+
+## 6. Intellectual property
+
+- The Bot’s code in this repository is owned by its author(s) and is subject to the repository’s license.
+- Third-party trademarks, names, and assets (e.g., Steam, Discord) are property of their respective owners.
+
+## 7. Disclaimer of warranties
+
+THE BOT IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOUR USE OF THE BOT IS AT YOUR SOLE RISK.
+
+## 8. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR DATA, ARISING FROM OR RELATED TO YOUR USE OF THE BOT.
+
+## 9. Changes to these Terms
+
+We may update these Terms from time to time. Material changes may be announced in the support server and/or via update logs (to servers that opted in). Continued use after changes means you accept the updated Terms.
+
+## 10. Contact
+
+- Support server: https://discord.gg/JGXMbFFVYj
+- Bot owner (Discord ID): 1073250313726857337
+
+If you are a server admin and need help with compliance or removal of data, please reach out via the support server.
